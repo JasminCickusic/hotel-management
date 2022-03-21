@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1641122191 source:c:\users\win10pro\desktop\projekat-pjip\hotel2\main.cpp
+	<iostream>
+	"Menu.h"
+	<stdlib.h>
+
+1641122304 c:\users\win10pro\desktop\projekat-pjip\hotel2\include\menu.h
+	<vector>
+	"Menu.h"
+	<list>
+	"Gost.h"
+	"Radnik.h"
+
+1641248987 c:\users\win10pro\desktop\projekat-pjip\hotel2\include\gost.h
+	<string>
+	<iostream>
+	<vector>
+
+1641248102 c:\users\win10pro\desktop\projekat-pjip\hotel2\include\radnik.h
+	<string>
+	<iostream>
+
+1641249908 source:c:\users\win10pro\desktop\projekat-pjip\hotel2\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<vector>
+	<string>
+
+1641249449 source:c:\users\win10pro\desktop\projekat-pjip\hotel2\src\radnik.cpp
+	"Radnik.h"
+	"Menu.h"
+
+1641249834 source:c:\users\win10pro\desktop\projekat-pjip\hotel2\src\gost.cpp
+	"Gost.h"
+	"Menu.h"
+
+1641122192 source:c:\users\hp\desktop\fullproject (1)\projekat-pjip\hotel2\main.cpp
+	<iostream>
+	"Menu.h"
+	<stdlib.h>
+
+1641122306 c:\users\hp\desktop\fullproject (1)\projekat-pjip\hotel2\include\menu.h
+	<vector>
+	"Menu.h"
+	<list>
+	"Gost.h"
+	"Radnik.h"
+
+1641248988 c:\users\hp\desktop\fullproject (1)\projekat-pjip\hotel2\include\gost.h
+	<string>
+	<iostream>
+	<vector>
+
+1641248104 c:\users\hp\desktop\fullproject (1)\projekat-pjip\hotel2\include\radnik.h
+	<string>
+	<iostream>
+
+1641249836 source:c:\users\hp\desktop\fullproject (1)\projekat-pjip\hotel2\src\gost.cpp
+	"Gost.h"
+	"Menu.h"
+
+1641249910 source:c:\users\hp\desktop\fullproject (1)\projekat-pjip\hotel2\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<vector>
+	<string>
+
+1641249450 source:c:\users\hp\desktop\fullproject (1)\projekat-pjip\hotel2\src\radnik.cpp
+	"Radnik.h"
+	"Menu.h"
+
+1641122192 source:c:\users\hp\desktop\fullproject\projekat-pjip\hotel2\main.cpp
+	<iostream>
+	"Menu.h"
+	<stdlib.h>
+
+1641122306 c:\users\hp\desktop\fullproject\projekat-pjip\hotel2\include\menu.h
+	<vector>
+	"Menu.h"
+	<list>
+	"Gost.h"
+	"Radnik.h"
+
+1641901277 c:\users\hp\desktop\fullproject\projekat-pjip\hotel2\include\gost.h
+	<string>
+	<iostream>
+	<vector>
+
+1641900688 c:\users\hp\desktop\fullproject\projekat-pjip\hotel2\include\radnik.h
+	<string>
+	<iostream>
+
+1641901213 source:c:\users\hp\desktop\fullproject\projekat-pjip\hotel2\src\gost.cpp
+	"Gost.h"
+	"Menu.h"
+	<string>
+
+1641249910 source:c:\users\hp\desktop\fullproject\projekat-pjip\hotel2\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<vector>
+	<string>
+
+1641868131 source:c:\users\hp\desktop\fullproject\projekat-pjip\hotel2\src\radnik.cpp
+	"Radnik.h"
+	"Menu.h"
+
+1641122192 source:c:\users\hp\downloads\trecisemestar\programiranje\pjip projekat\fullproject\fullproject\projekat-pjip\hotel2\main.cpp
+	<iostream>
+	"Menu.h"
+	<stdlib.h>
+
+1641122306 c:\users\hp\downloads\trecisemestar\programiranje\pjip projekat\fullproject\fullproject\projekat-pjip\hotel2\include\menu.h
+	<vector>
+	"Menu.h"
+	<list>
+	"Gost.h"
+	"Radnik.h"
+
+1641901277 c:\users\hp\downloads\trecisemestar\programiranje\pjip projekat\fullproject\fullproject\projekat-pjip\hotel2\include\gost.h
+	<string>
+	<iostream>
+	<vector>
+
+1641900688 c:\users\hp\downloads\trecisemestar\programiranje\pjip projekat\fullproject\fullproject\projekat-pjip\hotel2\include\radnik.h
+	<string>
+	<iostream>
+
+1641901213 source:c:\users\hp\downloads\trecisemestar\programiranje\pjip projekat\fullproject\fullproject\projekat-pjip\hotel2\src\gost.cpp
+	"Gost.h"
+	"Menu.h"
+	<string>
+
+1641249910 source:c:\users\hp\downloads\trecisemestar\programiranje\pjip projekat\fullproject\fullproject\projekat-pjip\hotel2\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<vector>
+	<string>
+
+1641868131 source:c:\users\hp\downloads\trecisemestar\programiranje\pjip projekat\fullproject\fullproject\projekat-pjip\hotel2\src\radnik.cpp
+	"Radnik.h"
+	"Menu.h"
+
